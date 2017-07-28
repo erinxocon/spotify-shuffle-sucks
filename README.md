@@ -1,1 +1,1 @@
-# spotifyshufflesucks
+# Spotify Shuffle Sucks
